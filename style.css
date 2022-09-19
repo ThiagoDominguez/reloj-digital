@@ -34,6 +34,6 @@ fieldset {
 
 @media (max-width:368px) {
   fieldset {
-    width: 250px;
+    width: 200px;
   }
 }
